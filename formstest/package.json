@@ -1,0 +1,19 @@
+{
+  "name": "formstest",
+  "version": "1.0.0",
+  "description": "A sign up form",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.1",
+    "express-formidable": "^1.0.0",
+    "express-handlebars": "^3.0.0",
+    "mongoose": "^4.12.0",
+    "nodemon": "^1.12.1"
+  }
+}

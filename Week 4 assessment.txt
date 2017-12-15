@@ -1,0 +1,24 @@
+1. false
+  false
+
+2. 'hey'
+  'hey'
+  'how you doing'
+
+3. 1
+   4
+   3
+   2
+
+4. true
+   true
+   true
+   true
+
+5. 'this person is cool'
+
+6. File has not been tracked. Requires git add . or git add text-file.txt
+
+7. Port 3000 is currently in use. Close port 3000.
+
+8.  

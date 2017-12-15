@@ -1,0 +1,16 @@
+{
+  "name": "Jest",
+  "version": "1.0.0",
+  "description": "",
+  "main": "webPageJestTest.js",
+  "dependencies": {
+    "jest": "^21.2.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}

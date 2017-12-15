@@ -1,0 +1,29 @@
+#formContainer{
+  background-color: #053f5b;
+  padding-bottom: 10px;
+}
+
+#title{
+  color: white;
+
+}
+button{
+  width:100%;
+}
+ input[type='radio']{
+  margin-right: 5px;
+  margin-bottom: 17px;
+}
+
+input[type='radio']:hover{
+  cursor: pointer;
+}
+
+.label{
+  font-size: 1em;
+  padding-left:4px;
+}
+
+.label:hover{
+  cursor: pointer;
+}
